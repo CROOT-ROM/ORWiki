@@ -5,3 +5,8 @@
 ## ✨ Features
 
 * [Communication](features/communication.md)
+
+***
+
+* [NPC's](npcs.md)
+* [Locations](locations.md)
