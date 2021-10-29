@@ -23,3 +23,7 @@ description: Places you should definitely check out around spawn.
 ## The Beach
 
 ..
+
+## The Fracture Forge
+
+..
