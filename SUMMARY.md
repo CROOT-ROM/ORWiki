@@ -6,4 +6,4 @@
 
 * [Communication](features/communication.md)
 * [NPC's](features/npcs.md)
-* [Locations](features/locations.md)
+* [Locations (WIP)](features/locations-wip.md)

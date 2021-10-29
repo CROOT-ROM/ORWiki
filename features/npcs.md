@@ -1,5 +1,5 @@
 ---
-description: Here, you can find information about the NPC's of Origin Realms.
+description: Here, you can find information about the Origin Realms' vast array of NPCs.
 ---
 
 # NPC's
@@ -48,9 +48,9 @@ Bolt will buy and sell some redstone based items like Pistons and Repeaters.
 
 ## Clay
 
-![If you follow the path South after going through the spawn gate, Clay is located within the cave as you head south.](../.gitbook/assets/Clay.png)
+![Follow the path South after going through the spawn gate to locate Clay within the cave.](../.gitbook/assets/Clay.png)
 
-..
+Clay will buy and sell rare materials like Redstone, Lapis Lazuli and Iron.
 
 ## Ribston
 
@@ -68,19 +68,19 @@ Paula sells apples.
 
 ![Located on the opposite side of Paula.](../.gitbook/assets/Shane.png)
 
-Worker Shane sells building materials like Granite and Terracotta
+Worker Shane sells building materials like Granite and Terracotta.
 
 ## Valdon
 
 ![Valdon's stall is just outside of the Library.](../.gitbook/assets/Valdon.png)
 
-Valdon deals in mob ware, bones, gunpowder, spider eyes... that kinda stuff.
+Valdon deals in mob-ware. They buy and sell items like bones, gunpowder and spider eyes.
 
 ## Lily
 
 ![Lily's stall is right next to Valdon's. ](../.gitbook/assets/Lily.png)
 
-Lily is florest and deals in flowers.&#x20;
+Lily is a florist and deals in flowers.&#x20;
 
 ## Captain Walrus
 
